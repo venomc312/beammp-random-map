@@ -4,7 +4,9 @@ _this is currently linux only; a Windows version is in the works and will be add
 
 This is a simple shell script that should be used as your startup command (./start.sh).  This script uses tmux as the window manager, so in order to see your server console once it is started you should use tmux attach while logged into the user that the server is running on.
 
-_The script should be placed in the root directory, the file locations at the top of the script should be updated to match that of your server's_
+You should place both `start.sh` and `restart.sh` in the root directory of your server, the variables in these scripts should only be changed if you have a reason to do so.
+
+_The scripst should be placed in the root directory, the file locations at the top of the script should be updated to match that of your server's_
 
 This chooses a random map on startup, to add maps please see below.
 

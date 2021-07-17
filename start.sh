@@ -1,8 +1,9 @@
 
 #!/bin/bash
-CONFIG_FILE="/home/beammp/server/ServerConfig.toml" #Replace this with your server config directory
+CONFIG_FILE="./ServerConfig.toml" #Leave these as they are unless you have a reason to change them.
+SERVER_BINARY="./BeamMP-Server-linux" #Leave these as they are unless you have a reason to change them.
+
 TARGET_KEY="Map"
-SERVER_BINARY="/home/beammp/server/BeamMP-Server-linux"
 
 # Add maps to an array
 array[0]="/levels/gridmap_v2/info.json"
