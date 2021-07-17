@@ -8,13 +8,13 @@ _The script should be placed in the root directory, the file locations at the to
 This chooses a random map on startup, to add maps please see below.
 
 Here is the default map list
-```toml
+```json
 array[0]="/levels/gridmap_v2/info.json"
 array[1]="/levels/utah/info.json"
 ```
 
 Here is the list with one added
-```toml
+```json
 array[0]="/levels/gridmap_v2/info.json"
 array[1]="/levels/utah/info.json"
 array[2]="/levels/sandy_mountain/info.json|
