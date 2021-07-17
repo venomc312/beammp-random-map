@@ -7,7 +7,6 @@ SERVER_BINARY="/home/beammp/server/BeamMP-Server-linux"
 # Add maps to an array
 array[0]="/levels/gridmap_v2/info.json"
 array[1]="/levels/utah/info.json"
-array[2]="/levels/sandy_mountain/info.json"
 
 # Set config value
 size=${#array[@]}
