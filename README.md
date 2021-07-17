@@ -19,3 +19,5 @@ array[0]="/levels/gridmap_v2/info.json"
 array[1]="/levels/utah/info.json"
 array[2]="/levels/sandy_mountain/info.json|
 ```
+
+[BeamMP Forum Link](https://forum.beammp.com/t/random-map-on-startup-linux-shell-script/58869)
