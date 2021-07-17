@@ -1,4 +1,5 @@
 # BeamMP Random Map - Shell
+## The powershell script in this repo can be run with PS7, if you don't know how to do that, than you will need to wait for a newer release.
 _this is currently linux only; a Windows version is in the works and will be added to the github repository_
 
 This is a simple shell script that should be used as your startup command (./start.sh).  This script uses tmux as the window manager, so in order to see your server console once it is started you should use tmux attach while logged into the user that the server is running on.
