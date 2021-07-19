@@ -23,4 +23,6 @@ array[1]="/levels/utah/info.json"
 array[2]="/levels/sandy_mountain/info.json|
 ```
 
+Once you are done customizing the script, run the command `chmod +x start.sh && chmod +x restart.sh`; this will make the scripts executable, then it's as simple as running `./start.sh` or `./restart.sh`
+
 [BeamMP Forum Link](https://forum.beammp.com/t/random-map-on-startup-linux-shell-script/58869)
